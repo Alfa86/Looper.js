@@ -14,7 +14,7 @@ Include js file in your project like this:
 
 Create element with data-link attribute and give him API link. Inside of that element you can create template which Looper.js is going to use for populating. 
 
-![Template example](https://github.com/Alfa86/Looper.js/blob/master/Looper.svg?raw=true) 
+![Template example](Looper.svg?raw=true) 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
